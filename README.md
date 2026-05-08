@@ -1,2 +1,3 @@
 **About Me**
+---
 My name is Tyrone Darby, and I’m currently a computer science student at Georgia Southern University. I chose this major because I enjoy solving problems and understanding how systems work behind the scenes. My goal is to build strong technical skills and gain real-world experience that will prepare me for a career in the tech industry. I’m focused on improving my programming and problem-solving abilities while continuing to learn new concepts that will help me grow as a developer.
